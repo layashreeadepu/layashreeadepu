@@ -59,12 +59,6 @@
 ###
 
 <div align="center">
-<source media="(prefers-color-scheme: light)" 
-  <img src="https://raw.githubusercontent.com/layashreeadepu/layashreeadepu/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/layashreeadepu/layashreeadepu/output/snake.svg" alt="Snake animation" />
 </div>
 
-###
-
-<div align="center">
-<source media="(prefers-color-scheme: light)" 
-srcset="https://user-images.githubusercontent.com/layashreeadepu/layashreeadepu/output/snake.svg">
