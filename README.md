@@ -1,64 +1,62 @@
-<br clear="both">
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/LayashreeAdepu/LayashreeAdepu/blob/main/mine.jpeg" alt="Your Image" width="200" style="border-radius:20%; margin-right:20px;">
+    </td>
+    <td>
+      <h1>Hi there 👋</h1>
+      <h2>💫 About Me:</h2>
+      <p>Hello folks,<br>
+      I am <b>Layashree Adepu</b>, a data engineer with hands-on experience in cloud data solutions, data modeling, and building scalable ETL pipelines. Currently pursuing a <b>Master of Science in Data Analytics Engineering</b> at <b>Northeastern University</b>, I have a passion for transforming raw data into valuable insights.</p>
+      <p>With a background in <b>Azure Data Engineering</b>, I specialize in developing robust data pipelines, working with tools like <b>Azure Data Factory, Synapse Analytics, Databricks</b>, and optimizing data processing workflows. I also have experience in predictive modeling, business intelligence, and real-time data integration.</p>
+      <p><b>Introducing myself in a single sentence:</b><br>
+      "I engineer data-driven solutions to empower businesses with actionable insights."</p>
+    </td>
+  </tr>
+</table>
 
-<h1 align="left">Hey there, I’m Layashree! 👋</h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layashreeadepu/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/LayashreeAdepu)  
+[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/layashree.adepu)  
 
-###
+## 🛠️ Tech Stack:
 
-<div align="center">
-  <img  height="300" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif"  />
-  </div>
+### Programming & Technologies:
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-217346?style=flat)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
 
-###
+### Data Engineering & Cloud:
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0089D6?style=flat)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat)
+![Azure Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
-<p align="left">🎓 I’m currently pursuing a Master of Science in Data Analytics Engineering at Northeastern University in Boston, MA. My passion lies in leveraging data to drive informed decisions and create meaningful impact.<br><br>🔬 As an enthusiast, I love diving into data and transforming it into compelling visuals that empower people to make smarter choices. Whether it’s analyzing trends, designing products, or managing databases, I thrive on turning data into actionable insights.<br><br>🌱 Here’s what I’m currently exploring:<br><br>Data Analysis: Uncovering hidden patterns and extracting valuable insights from raw data.<br>Product Design and Management: Crafting user-centric solutions and overseeing the product lifecycle.<br>Data Management and Database Design: Ensuring efficient data storage and retrieval.<br>💬 Ask me about how I apply my diverse skill set to tackle complex problems using machine learning and deep learning techniques. I’m always up for discussing exciting projects and sharing knowledge!<br><br>👩‍💻 Previously, I worked as a data engineer at Tata Consultancy Services (TCS), accumulating 2.5 years of industry experience. During this time, I honed my skills in data pipelines, ETL processes, and data modeling.</p>
+### Data Analysis & Visualization:
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-###
+### DevOps & Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-5D4E8A?style=flat)
 
-<div align="center">
-  <a href="layashreeadepu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/layashreeadepu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-</div>
+## 📊 GitHub Stats:
 
-###
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LayashreeAdepu&show_icons=true&theme=radical)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="30" alt="powerBi"  />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="30" alt="tablue"  />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LayashreeAdepu&layout=compact&theme=radical)
 
-###
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LayashreeAdepu&theme=radical)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=layashreeadepu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=layashreeadepu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=layashreeadepu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🏆 GitHub Trophies:
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LayashreeAdepu&theme=radical&no-frame=true&margin-w=15)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=LayashreeAdepu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/layashreeadepu/layashreeadepu/output/snake.svg" alt="Snake animation" />
-</div>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
