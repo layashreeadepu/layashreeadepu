@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/LayashreeA/LayashreeA/blob/main/profile.jpg" alt="Your Image" width="200" style="border-radius:20%; margin-right:20px;">
+      [WhatsApp Image 2025-03-18 at 16 21 04_77226aae](https://github.com/user-attachments/assets/8ba69f7e-0dcf-445a-8de8-dcb8e5ba1c40)
     </td>
     <td>
       <h1>Hi there 👋</h1>
