@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      [WhatsApp Image 2025-03-18 at 16 21 04_77226aae](https://github.com/user-attachments/assets/8ba69f7e-0dcf-445a-8de8-dcb8e5ba1c40)
+      ![Image](https://github.com/user-attachments/assets/9ef19e78-fce6-4a51-92ae-465095ca702a)
     </td>
     <td>
       <h1>Hi there 👋</h1>
