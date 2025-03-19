@@ -1,64 +1,80 @@
-<br clear="both">
+<table>
+  <tr>
+    <td>
+      ![Image](https://github.com/user-attachments/assets/9ef19e78-fce6-4a51-92ae-465095ca702a)
+    </td>
+    <td>
+      <h1>Hi there 👋</h1>
+      <h2>💫 About Me:</h2>
+      <p>Hello folks,<br>
+      I am <b>Layashree Adepu</b>, a Data Engineer with over 2.8 years of experience in designing and optimizing data pipelines, cloud data solutions, and ETL workflows. Currently pursuing a <b>Master of Science in Data Analytics Engineering</b> at <b>Northeastern University</b>, I have a strong passion for transforming raw data into meaningful insights.</p>
+      <p>My expertise spans across data engineering, cloud computing, analytics, and visualization, with a strong foundation in predictive modeling and database management. I am certified in Power BI and actively work on data science applications, ETL automation, and scalable cloud solutions.</p>
+      <p><b>Introducing myself in a single sentence:</b><br>
+      "I am a data-driven problem solver, passionate about engineering scalable data solutions and driving business insights."</p>
+    </td>
+  </tr>
+</table>
 
-<h1 align="left">Hey there, I’m Layashree! 👋</h1>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layashree-adepu/)  
+[![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/layashree.adepu)
 
-###
+## 🛠️ Tech Stack:
 
-<div align="center">
-  <img  height="300" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif"  />
-  </div>
+### **Programming Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-###
+### **Database Technologies:**
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/Oracle_DB-F80000?style=flat&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HBase](https://img.shields.io/badge/HBase-EE3124?style=flat)
+![Hive](https://img.shields.io/badge/Hive-F9A03C?style=flat)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=black)
+![Impala](https://img.shields.io/badge/Impala-000000?style=flat)
 
-<p align="left">🎓 I’m currently pursuing a Master of Science in Data Analytics Engineering at Northeastern University in Boston, MA. My passion lies in leveraging data to drive informed decisions and create meaningful impact.<br><br>🔬 As an enthusiast, I love diving into data and transforming it into compelling visuals that empower people to make smarter choices. Whether it’s analyzing trends, designing products, or managing databases, I thrive on turning data into actionable insights.<br><br>🌱 Here’s what I’m currently exploring:<br><br>Data Analysis: Uncovering hidden patterns and extracting valuable insights from raw data.<br>Product Design and Management: Crafting user-centric solutions and overseeing the product lifecycle.<br>Data Management and Database Design: Ensuring efficient data storage and retrieval.<br>💬 Ask me about how I apply my diverse skill set to tackle complex problems using machine learning and deep learning techniques. I’m always up for discussing exciting projects and sharing knowledge!<br><br>👩‍💻 Previously, I worked as a data engineer at Tata Consultancy Services (TCS), accumulating 2.5 years of industry experience. During this time, I honed my skills in data pipelines, ETL processes, and data modeling.</p>
+### **Data Engineering Tools:**
+![Talend](https://img.shields.io/badge/Talend-FF6F00?style=flat&logo=talend&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-0066CC?style=flat)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078D4?style=flat)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat)
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat)
 
-###
+### ☁️ **Cloud Technologies**  
+**Azure**  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)  
+✔ Azure Data Factory  
+✔ Azure Synapse Analytics  
+✔ Azure Databricks  
+✔ Azure Data Lake  
+✔ Azure Blob Storage  
 
-<div align="center">
-  <a href="layashreeadepu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/layashreeadepu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-</div>
+**AWS**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
+✔ AWS Glue  
+✔ Amazon S3  
+✔ AWS Lambda  
+✔ Amazon Redshift  
 
-###
+### **Data Science & Analytics:**
+![Classification](https://img.shields.io/badge/Classification-FFD700?style=flat)
+![Regression](https://img.shields.io/badge/Regression-008C8C?style=flat)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF4500?style=flat)
+![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-9400D3?style=flat)
+![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-FF5733?style=flat)
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" height="30" alt="powerBi"  />
-  <img width="12" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" height="30" alt="tablue"  />
-</div>
+### **Visualization Tools:**
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Visio](https://img.shields.io/badge/Visio-0078D4?style=flat)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-00A4EF?style=flat)
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=layashreeadepu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=layashreeadepu&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=layashreeadepu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/layashreeadepu/layashreeadepu/output/snake.svg" alt="Snake animation" />
-</div>
-
+## 🎓 Certification:
+- **Microsoft Certified: Power BI Data Analyst Associate**
