@@ -1,9 +1,6 @@
 <table>
   <tr>
     <td>
-      ![Image](https://github.com/user-attachments/assets/9ef19e78-fce6-4a51-92ae-465095ca702a)
-    </td>
-    <td>
       <h1>Hi there 👋</h1>
       <h2>💫 About Me:</h2>
       <p>Hello folks,<br>
