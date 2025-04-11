@@ -3,8 +3,6 @@
   <tr>
     <td>
       <h1>Hi there 👋</h1>
-      <h2>💫 About Me:</h2>
-      <p>Hello folks,<br>
       I am <b>Layashree Adepu</b>, a Data Engineer with over 2.8 years of experience in designing and optimizing data pipelines, cloud data solutions, and ETL workflows. Currently pursuing a <b>Master of Science in Data Analytics Engineering</b> at <b>Northeastern University</b>, I have a strong passion for transforming raw data into meaningful insights.</p>
       <p>My expertise spans across data engineering, cloud computing, analytics, and visualization, with a strong foundation in predictive modeling and database management. I am certified in Power BI and actively work on data science applications, ETL automation, and scalable cloud solutions.</p>
       <p><b>Introducing myself in a single sentence:</b><br>
