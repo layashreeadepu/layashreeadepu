@@ -1,17 +1,10 @@
 # 👋 Hi, I’m Layashree Adepu
 
-**💡 Data Engineer | Cloud & ETL Specialist | Analytics Enthusiast**  
-Transforming raw data into real-world decisions — one pipeline at a time.  
-
----
-
-## 🧠 About Me
-
-I’m a Data Engineer with 2.8+ years of experience designing data pipelines, building cloud-native ETL workflows, and delivering analytics solutions that drive business outcomes. Currently pursuing a Master’s in Data Analytics Engineering at Northeastern University, I specialize in integrating data across platforms, visualizing insights, and engineering efficient, scalable systems in Azure and AWS environments.
+I’m a Data Engineer with 2.8+ years of experience designing data pipelines, building cloud-native ETL workflows, and delivering analytics solutions that drive business outcomes. Recent Graduate in Master’s in Data Analytics Engineering at Northeastern University, I specialize in integrating data across platforms, visualizing insights, and engineering efficient, scalable systems in Azure and AWS environments.
 
 Previously at TCS, I led teams to automate data flows, modernize reporting frameworks, and improve delivery timelines. Whether it’s building Power BI dashboards, optimizing SQL queries, or orchestrating workflows in Talend and dbt — I’m in my zone when making data move smarter.
 
-> 🎯 *“I build pipelines, not walls — and I make your data tell the truth.”*
+> 🎯 *"Turning chaos into clean data pipelines, one transformation at a time."*
 
 ---
 
