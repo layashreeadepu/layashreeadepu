@@ -32,15 +32,15 @@ Previously at TCS, I led teams to automate data flows, modernize reporting frame
 
 - **🔬 Organ Donation Healthcare System**  
   Real-time tracking of transplant candidates using SQL Server & Power BI dashboards.  
-  _[View Project]()_
+  _[View Project](https://github.com/layashreeadepu/Organ-Donation-Database-Design)_
 
-- **🚴‍♀️ Bike Flow Analytics**  
-  OLAP warehouse with Starflake schema and Talend ETL for ridership trends.  
-  _[View Project]()_
+- **🚴‍♀️ Data Visuaization**  
+  Projects on Data visualizations usinf Python, PowerBi, Tableau  
+  _[View Project](https://github.com/layashreeadepu/Data-Visualizations)_
 
 - **📈 Immigrant Insights**  
   Forecasting future occupation trend from lawful residence immigration patterns.  
-  _[View Project]()_
+  _[View Project](https://github.com/layashreeadepu/Imigrant-Insights)_
 
 ---
 
